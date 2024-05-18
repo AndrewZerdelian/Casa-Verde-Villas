@@ -1,5 +1,5 @@
 import React from 'react'
-import Firstphoto from '../images/first photo .jpg'
+//import Firstphoto from '../images/first photo .jpg'
 
 
 export default function Our_Project() {
@@ -13,7 +13,7 @@ export default function Our_Project() {
 
     <div className='xl:grid xl:grid-cols-2 xl:gap-20'>
 
-    <img src={Firstphoto} alt='blabla' className='mx-auto h-52 rounded-md w-[80%]
+    <img src="https://firebasestorage.googleapis.com/v0/b/content-for-casa-verde.appspot.com/o/first%20photo%20.jpg?alt=media&token=42eccbb7-6ee7-4a3b-87bc-94623b6d5cf4" alt='blabla' className='mx-auto h-52 rounded-md w-[80%]
     lg:h-[400px]'/>
 
     <p className='pt-10 font-bold text-center 
